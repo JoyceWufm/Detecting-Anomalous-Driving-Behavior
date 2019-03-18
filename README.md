@@ -10,8 +10,8 @@ Usage: Python 3.6
 <img src="Flow chart master.png" alt="" style="float: left; margin-right: 10px;" />  
 
 #### Output:  
-<iframe width="540" height="540" src="https://www.youtube.com/embed/mTFlKedstPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<figcaption class="caption">Show Me a Safer Way: Detecting Anomalous Driving Behavior Using Online Traffic Footage</figcaption>  
+[Result Video](https://www.youtube.com/embed/mTFlKedstPs)
+<img src="Result Capture.jpg" alt="" style="float: left; margin-right: 10px;" /> 
 
 #### References:  
 [Mask RCNN](https://github.com/matterport/Mask_RCNN)  
