@@ -10,9 +10,9 @@ Usage: Python 3.6
 <img src="Flow chart master.png" alt="" style="float: left; margin-right: 10px;" />  
 
 #### Output:  
-[Result Video](https://www.youtube.com/embed/mTFlKedstPs)
+[Result Video](https://www.youtube.com/embed/mTFlKedstPs)  
 <img src="Result Capture.jpg" alt="" style="float: left; margin-right: 10px;" /> 
 
 #### References:  
 [Mask RCNN](https://github.com/matterport/Mask_RCNN)  
-[Object tracking](https://github.com/matterport/Mask_RCNN)  
+[Object tracking, Srini Ananthakrishnan](https://github.com/matterport/Mask_RCNN)  
